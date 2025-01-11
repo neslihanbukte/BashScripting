@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "This is my first program"
+
+echo "Echo command prints text to the screen"
+echo "This is my first code"
