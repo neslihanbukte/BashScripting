@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Displaying environment variables with explanations
+# Displaying environment variables with explanations.
 echo "Your home directory: $HOME"  # : Specifies the user's home directory.
 echo "Your system path: $PATH"  # : It contains directories containing executable files on the system.
 echo "Your username: $USER"  # : Shows the name of the currently logged in user.
