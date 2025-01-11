@@ -42,16 +42,16 @@ let c=10
 let d=5
 
 let sum=c+d
-echo "Sum: $sum"   # Çıktı: Sum: 15
+echo "Sum: $sum"   # output: Sum: 15
 
 let diff=c-d
-echo "Difference: $diff"   # Çıktı: Difference: 5
+echo "Difference: $diff"   # Output: Difference: 5
 
 let product=c*d
-echo "Product: $product"   # Çıktı: Product: 50
+echo "Product: $product"   # Output: Product: 50
 
 let quotient=c/d
-echo "Quotient: $quotient"   # Çıktı: Quotient: 2
+echo "Quotient: $quotient"   # Output: Quotient: 2
 
 let remainder=c%d
-echo "Remainder: $remainder"   # Çıktı: Remainder: 0
+echo "Remainder: $remainder"   # Output: Remainder: 0
